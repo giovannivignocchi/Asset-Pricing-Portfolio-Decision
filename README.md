@@ -117,6 +117,7 @@ For our 3 portfolios, we defined min returns by using steps: step = (max ret –
 
 **Minimum Return 3: 1.59%**
 
+
 <img width="500" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/77c1a1b4-0eba-4f1e-ade1-dbed2339f6c2">
 
 **Efficient Frontier**

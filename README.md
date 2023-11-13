@@ -101,12 +101,15 @@ In order to mitigate estimation errors and achieve more reliable portfolio selec
 For our 3 portfolios, we defined min returns by using steps: step = (max ret – GMVP ret) / # of portfolios.
 
 **Minimum Return 1: 1.08%**
+
 <img width="500" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/b8817405-53bd-4e9d-b3b9-1381d1b12caa">
 
 **Minimum Return 2: 1.33%**
+
 <img width="499" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/b6f5c023-d4a6-41e0-8594-4ab48a300ed5">
 
 **Minimum Return 3: 1.59%**
+
 <img width="500" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/77c1a1b4-0eba-4f1e-ade1-dbed2339f6c2">
 
 **Efficient Frontier**
@@ -131,16 +134,19 @@ The CML also shows that to generate higher returns, you must take more risk.
 ## 3 CML Portfolios
 
 **Minimum Return 1: 1.08%**
+
 Weight of Market Portfolio: 22.9%; weight of the risk-free asset: 77.1%
 
 <img width="502" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/7e55267c-e763-49ec-b83d-d7f0c658907c">
 
 **Minimum Return 2: 1.33%**
+
 Weight of Market Portfolio: 30.4% weight of the risk-free asset: 69.6%
 
 <img width="500" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/2b236736-21d3-4390-9db0-60c883bc4436">
 
 **Minimum Return 3: 1.59%**
+
 Weight of Market Portfolio: 37.9% weight of the risk-free asset: 62.1%
 
 <img width="500" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/56982b28-4c58-468f-841f-326f027dacf7">
@@ -148,6 +154,7 @@ Weight of Market Portfolio: 37.9% weight of the risk-free asset: 62.1%
 <img width="284" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/9275390a-a2b9-4242-bfc0-a9120d41a1fb">
 
 ## SML Position & Betas and Alphas of the 3 Portfolios
+
 Using a regression, we find the following Beta and Alpha values for our 3 min return portfolios.
 
 <img width="458" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/ef9c35d2-3f3c-4b81-97dc-56874d6ab73d">

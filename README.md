@@ -22,6 +22,7 @@ The business environment, globally, is still difficult and uncertain, as heighte
 Our chosen asset classes are stocks and ETFs. To simplify our portfolio, we have elected to gain exposure to non-stock assets via ETFs. Our portfolio will be composed of:
 
 **Healthcare:**
+
 • IUHC (iShares S&P 500 Health Care Sector UCITS ETF)
 • IBB (iShares Biotechnology ETF)
 • LLY – US (Eli Lilly and Co)
@@ -30,11 +31,13 @@ Healthcare is somewhat stable in downturns and has the potential of above averag
 Eli Lilly and Co is a drug manufacturing business that is known for its numerous acquisitions, and thus its very diverse product offerings12. Its acquisitions strategy has been successful so far as the company’s return on equity has not been lower than 25% since 2018 and lower than 64% since 201913. We believe that including Eli Lilly in our portfolio is in our interest since the company seeks to acquire firms that are innovative instead of risking more of their own capital to attempt to innovate themselves, which helps them circumvent the typical healthcare innovation uncertainty.
 
 **Renewables:**
+
 • ICLN (iShares Global Clean Energy ETF)
 
 ICLN focuses on global clean energy, a growing segment of the energy sector that is predicted to grow significantly over the next few years. Global renewable electricity capacity is expected to increase over 60% from 2020 by 202614. This ETF contains the main players in the segment with the highest growth. We believe that this growth will persist due to global interest in clean energy and the increasing attention that is given to Sustainable and Responsible Investing.
 
 **Tech:**
+
 • ROBO (Global X Robo Global Robotics and Automation ETF)
 • AAPL (Apple Inc.)
 • MSFT (Miscrosoft Corp)
@@ -46,21 +49,25 @@ Apple is the biggest company by market capitalization. It has a large and very l
 Microsoft is the largest provider of computer operating systems, it provides the Microsoft Office Suite, and provides a cloud computing platform which helped it earn a commanding market share in the space16. Most recently, it also began investing heavily in AI, which is an industry of interest to us and that we seek exposure to.
 
 **REIT:**
+
 • STAG (STAG Industrial)
 
 STAG has a portfolio of industrial properties and warehouses/distributions centres. The reasoning behind the choice of this REIT is that we believe they hold properties that generate stable income with low probability of defaulting on payments. Additionally, due to REITs distribution policy we can generate passive income that may offset any downturn in the price of the stock.
 
 **Commodities:**
+
 • SLV (iShares Silver Trust)
 
 Silver ETFs should experience an uptrend within the short term as economic uncertainty persists. Since gold and silver prices are inversely correlated with market uptrends, exposure to silver will help us hedge against longer-than-expected economic uncertainty and downturns.
 
 **Consumer Discretionary:**
+
 • RMS – FR (Hermes International SCA)
 
 Hermes, a luxury brand, tends to have strong price performance even during recessions. Luxury brands typically perform well regardless of economic conditions thanks to inelastic demand. The stock’s performance over time has been extremely reliable, and we have some faith that the brand will be able to continue generating high levels of returns thanks to the popularity of the brand and customer loyalty.
 
 **Index:**
+
 • INDA (iShares MSCI India ETF)
 
 This ETF provides country-wide exposure to the Indian market. As mentioned beforehand, the country’s economy is expected to growth significantly and consistently over the next 5 years. Additionally, as supported by Arcano Research and Professor Ignacio de la Torre of IE Business School, India has the potential to become the 3rd biggest economy in the next 5 years. 18

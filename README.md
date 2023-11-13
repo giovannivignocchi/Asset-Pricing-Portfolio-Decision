@@ -120,12 +120,15 @@ For our 3 portfolios, we defined min returns by using steps: step = (max ret –
 <img width="500" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/77c1a1b4-0eba-4f1e-ade1-dbed2339f6c2">
 
 **Efficient Frontier**
+
 <img width="448" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/170cb0e4-544c-4650-92d1-c69e9d0c02ea">
 
 **GMVP – Min Returns (Still GMVP but would not invest due to min required returns)**
+
 <img width="500" alt="image" src="https://github.com/giovannivignocchi/Asset-Pricing-Portfolio-Decision/assets/32396630/9debf5f4-29e9-4739-93fc-4f77d776c38b">
 
 **Comparing GMVP vs. Previous 2 GMVPs**
+
 The Global Minimum Variance Portfolio, or GMVP, will always be the same if the constraints that we have are consistent. We sought three GMVPs: one where there are no constraints (we do not invest), one where we are fully invested, and another where we have minimum required returns. The first is evidently different from the rest as it requires us to invest so little that we essentially have no holdings. The other two must be identical, as the only difference between both circumstances is that in the last, we seek minimum required returns. However, applying a minimum required return only moves us along the efficient frontier. The lowest volatility portfolio that we have as an option is different, but it is not a new Global Minimum Variance Portfolio, it is only the lowest volatility portfolio given the requirements.
 
 ## Efficient Frontier with a Risk-Free Asset

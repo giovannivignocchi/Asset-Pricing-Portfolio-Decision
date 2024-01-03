@@ -24,7 +24,9 @@ Our chosen asset classes are stocks and ETFs. To simplify our portfolio, we have
 **Healthcare:**
 
 • IUHC (iShares S&P 500 Health Care Sector UCITS ETF)
+
 • IBB (iShares Biotechnology ETF)
+
 • LLY – US (Eli Lilly and Co)
 
 Healthcare is somewhat stable in downturns and has the potential of above average returns when you factor in Biotech. Considering the recent pandemic that the world went through, we also believe that there will be increased attention towards health care infrastructure and products.
@@ -39,7 +41,9 @@ ICLN focuses on global clean energy, a growing segment of the energy sector that
 **Tech:**
 
 • ROBO (Global X Robo Global Robotics and Automation ETF)
+
 • AAPL (Apple Inc.)
+
 • MSFT (Miscrosoft Corp)
 
 ROBO ETF focuses on artificial intelligence, automation, and robotics. The first is a booming industry predicted to grow significantly over the next few years15. The other two, though they are not the greatest objects of focus in the market, may generate outsized returns in the future as they are one of the catalysts for continued productivity growth and cost-minimization via technological innovation.
